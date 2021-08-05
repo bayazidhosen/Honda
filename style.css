@@ -1,0 +1,75 @@
+.logo{
+    width: 100px;
+    margin-left: 150px;
+}
+.navbar-nav{
+    margin-right: 150px;
+}
+.banner{
+    padding: 40px 150px;
+}
+.banner-coloer{
+    background-color: darkslategrey;
+    color: white;
+}
+.banner-coloer h1{
+    color: lightcyan;
+}
+.buy-now-button{
+    background-color: tomato;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: medium;
+    
+}
+.main-text{
+    margin-top: 50px;
+}
+.main-img{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+main{
+    background-color: #ffffff;
+}
+.bike-1 img{
+    max-width: 320px;
+    margin-top: 20px;
+   
+}
+.Happy{
+    margin: 30px 0;
+}
+.card-img-top{
+    max-width: 100px;
+    margin-top: 20px;
+}
+.ster{
+    max-width: 20px;
+}
+.c-body{
+    margin-left: 150px;
+    margin-right: ;
+}
+.card-title{
+   margin: 10px 0px 10px 140px;
+   color: royalblue;
+}
+.card-text{
+    margin: 10px 0 10px 180px;
+}
+.card-text-1{
+    margin: 0 20px 20px 20px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px grey;
+}
+.faq{
+    max-width: 550px;
+}
+.faq-text{
+    text-align: center;
+    margin: 30px 0;
+}
